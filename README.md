@@ -1,4 +1,4 @@
-# PhantomSegmentation
+# MRI Phantom Segmentation
 
 This C++ project implements MRI phantom segmentation using a pre-trained U-Net model. It also provides OpenCV-based segmentation methods for comparison and evaluation. 
 
