@@ -15,6 +15,8 @@ This C++ project implements MRI phantom segmentation using a pre-trained U-Net m
 
 This project focuses on segmenting MRI phantoms from input images. It leverages a trained U-Net model (implemented in PyTorch) for accurate segmentation.  It also incorporates OpenCV-based segmentation techniques for comparative analysis and provides visual outputs to demonstrate the performance of each method.
 
+![Segmentation Results](output_folder/subplots_with_subtitles_20.png "Segmentation Results")
+
 ## Features
 
 * **U-Net Segmentation:** Leverages a pre-trained U-Net model to perform segmentation.
